@@ -1,0 +1,2 @@
+﻿model,accuracy,precision_macro,recall_macro,f1_macro
+Linear SVM,0.725854383358098,0.664915518827454,0.6871376584908796,0.6737587079230662
